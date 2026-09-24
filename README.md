@@ -1,2 +1,1 @@
-# Aporia
-ICBD of CYCU student self introduction
+#本人:游家驊
